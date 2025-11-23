@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f45b61a9d67d1c",
+        "id": "a002469fb1fc67e0",
         "type": "tabs",
         "children": [
           {
-            "id": "dd3af10ab6e9e501",
+            "id": "78adf11a0442f0d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,10 +179,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd3af10ab6e9e501",
+  "active": "78adf11a0442f0d2",
   "lastOpenFiles": [
+    "__Papers/dunleavy2025data.pdf",
+    "dunleavy2025data.md",
+    "papadopoulos2020governments.md",
+    "__Papers/papadopoulos2020governments.pdf",
     "ngai2025natural.md",
-    "Untitled.md",
     "__Papers/ngai2025natural.pdf",
     "hatton1995reflection.md",
     "__Papers/ngai2025natural.pdf.crdownload",
@@ -198,9 +201,7 @@
     "laufs2022technological.md",
     "krone2017trajectories.md",
     "__Papers/laufs2022technological.pdf",
-    "__Papers/krone2017trajectories.pdf",
     "kolb1984experiential.md",
-    "__Papers/kolb2014experiential.pdf",
     "kassem2025their.md",
     "gundhus2013experience.md",
     "finkelhor2024prevalence.md",
