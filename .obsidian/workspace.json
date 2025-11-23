@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7615e691a632cef",
+        "id": "f3f45b61a9d67d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "28b7b4da819a5c2a",
+            "id": "dd3af10ab6e9e501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thompson2021missed.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "thompson2021missed"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "28b7b4da819a5c2a",
+  "active": "dd3af10ab6e9e501",
   "lastOpenFiles": [
-    "sow2025critical.md",
+    "ngai2025natural.md",
+    "Untitled.md",
+    "__Papers/ngai2025natural.pdf",
+    "hatton1995reflection.md",
+    "__Papers/ngai2025natural.pdf.crdownload",
+    "__Papers/finkelhor2024prevalence.pdf",
     "thompson2021missed.md",
+    "sow2025critical.md",
     "smith2001role.md",
     "__Papers/thompson2021missed.pdf",
     "__Papers/sow2025critical.pdf",
@@ -200,12 +202,8 @@
     "kolb1984experiential.md",
     "__Papers/kolb2014experiential.pdf",
     "kassem2025their.md",
-    "hatton1995reflection.md",
-    "__Papers/kassem2025their.pdf",
     "gundhus2013experience.md",
-    "__Papers/hatton1995reflection.pdf",
     "finkelhor2024prevalence.md",
-    "__Papers/gundhus2013experience.pdf",
     "choi2024digital.md",
     "Welcome.md"
   ]
